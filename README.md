@@ -10,8 +10,8 @@
 </p>
 
 <!-- Trophies -->
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=ryanbatman&theme=onedark&row=1&column=6" alt="GitHub Trophies" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ryanbatman&theme=onedark&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </p>
 
 <!-- Contact Info -->
